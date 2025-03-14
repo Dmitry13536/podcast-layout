@@ -15,19 +15,19 @@ const Footer: React.FC<Props> = () => {
             <div className="footer__columns">
                 <div className="footer__column"> 
                     <p className="footer__column--title">Site</p>
-                    <a href="#">Home</a>
-                    <a href="#">Contact</a>
-                    <a href="#">FAQs</a>
-                    <a href="#">Terms & Conditions</a>
-                    <a href="#">Privacy Policy</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">Home</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">Contact</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">FAQs</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">Terms & Conditions</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">Privacy Policy</a>
                 </div>
                 <div className="footer__column">
                     <p className="footer__column--title">Admin</p>
-                    <a href="#">Style Guide</a>
-                    <a href="#">Licenses</a>
-                    <a href="#">Instructions</a>
-                    <a href="#">Password</a>
-                    <a href="#">404</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">Style Guide</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">Licenses</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">Instructions</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">Password</a>
+                    <a href="https://dmitry13536.github.io/podcast-layout/">404</a>
                 </div>
             </div>
         </footer>

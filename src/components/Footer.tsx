@@ -10,7 +10,7 @@ const Footer: React.FC<Props> = () => {
             <div className="footer__logo">
                 <Logo  />
                 <p className="footer__text">The last landing page you'll ever need to launch your next course.</p>
-                <p className="footer__info">Built by <a href="#">Nikolai Bain</a>. Powered by <a href="#">Webflow</a>.</p>
+                <p className="footer__info">Built by <a href="https://dmitry13536.github.io/podcast-layout/">Nikolai Bain</a>. Powered by <a href="https://dmitry13536.github.io/podcast-layout/">Webflow</a>.</p>
             </div>
             <div className="footer__columns">
                 <div className="footer__column"> 

@@ -1,5 +1,5 @@
 import React from "react";
-import img from '../imgs/img1.png';
+import img from '../imgs/IMG.png';
 
 interface Props{}
 

@@ -5,6 +5,20 @@
   font-weight: 400;
 }
 
+summary:hover{
+  cursor: pointer;
+  user-select: none;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+button:active{
+  transform: translateY(2px);
+  filter: brightness(0.9);
+}
+
 .App {
   text-align: center;
 }

@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/podcast-layout/static/css/main.9e2abbb9.css",
+    "main.js": "/podcast-layout/static/js/main.832174b7.js",
+    "static/js/453.14131128.chunk.js": "/podcast-layout/static/js/453.14131128.chunk.js",
+    "static/media/img2.png": "/podcast-layout/static/media/img2.680352d61b008326ebae.png",
+    "static/media/img1.png": "/podcast-layout/static/media/img1.a4062bc749fcbb692463.png",
+    "static/media/IMG.png": "/podcast-layout/static/media/IMG.45b2fd4f6469f390e909.png",
+    "static/media/Vector-6.svg": "/podcast-layout/static/media/Vector-6.a434e3ed59c55fb5048d30d698cb87a2.svg",
+    "static/media/Vector-5.svg": "/podcast-layout/static/media/Vector-5.fc6bf3bb0b5aba8e5930a553c16ad2a9.svg",
+    "static/media/Vector-4.svg": "/podcast-layout/static/media/Vector-4.c114641435e223b1d691f37b7cfb03fb.svg",
+    "static/media/Vector-8.svg": "/podcast-layout/static/media/Vector-8.52d98838224b1cec3061f61e49112245.svg",
+    "static/media/Vector-7.svg": "/podcast-layout/static/media/Vector-7.8e39b2b0a8ffb92f5a87c4a7a06e0696.svg",
+    "static/media/Vector-3.svg": "/podcast-layout/static/media/Vector-3.b65e6373d3281ee6b71aaee9af9df3fb.svg",
+    "static/media/Vector-1.svg": "/podcast-layout/static/media/Vector-1.25754edfd803495e4ffc78c74771fd87.svg",
+    "static/media/Vector-2.svg": "/podcast-layout/static/media/Vector-2.4c78c0061c3973da1e5777e0bae42512.svg",
+    "static/media/quote.svg": "/podcast-layout/static/media/quote.b0ce519c4069ecd02764fe04cd3768cf.svg",
+    "index.html": "/podcast-layout/index.html",
+    "static/media/check.svg": "/podcast-layout/static/media/check.5f16cfb925e508533e76.svg",
+    "static/media/triange.svg": "/podcast-layout/static/media/triange.47b15455a505e385115f9d2a79193a78.svg",
+    "static/media/triange-1.svg": "/podcast-layout/static/media/triange-1.8604ce36ecb170597afdd4438d094b46.svg",
+    "main.9e2abbb9.css.map": "/podcast-layout/static/css/main.9e2abbb9.css.map",
+    "main.832174b7.js.map": "/podcast-layout/static/js/main.832174b7.js.map",
+    "453.14131128.chunk.js.map": "/podcast-layout/static/js/453.14131128.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e2abbb9.css",
+    "static/js/main.832174b7.js"
+  ]
+}
